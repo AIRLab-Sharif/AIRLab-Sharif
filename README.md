@@ -1,2 +1,2 @@
-- 👋 Hi, This is official page of AIRLab at Sharif University of Technology if github
+- 👋 Hi, This is official page of AIRLab at Sharif University of Technology in Github
 - 📫 Check us at [AIRLab Website](http://ee.sharif.edu/~airlab)
